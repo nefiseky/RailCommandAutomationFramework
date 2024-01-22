@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailCommandAutomationFramework", "RailCommandAutomationFramework\RailCommandAutomationFramework.csproj", "{5C0D7CD1-2986-44D7-A340-A60F61716D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0D7CD1-2986-44D7-A340-A60F61716D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0D7CD1-2986-44D7-A340-A60F61716D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0D7CD1-2986-44D7-A340-A60F61716D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0D7CD1-2986-44D7-A340-A60F61716D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {251AE0F7-540A-4218-A661-E3029CE570D5}
+	EndGlobalSection
+EndGlobal
